@@ -7,7 +7,7 @@ Netmiko is a module that makes it easier to use paramiko for network devices. Ne
 
 TTP is a Python library for semi-structured text parsing using the templates.
 
-See a sample CPU output from a network Device. 
+See a sample CPU output from a network device. 
 
 <img width="320" alt="CPU_CLI" src="https://user-images.githubusercontent.com/94804863/163663564-45ed7cb0-7e30-4aa0-a732-ee8d1158e222.PNG">
 
