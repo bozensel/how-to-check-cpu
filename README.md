@@ -1,11 +1,11 @@
 # how-to-check-cpu
-how to check cpu from multiple devices and warn user if there is abnormaly. 
+How to check cpu from multiple devices and warn user if there is abnormaly. 
 
 Netmiko and TTP is used to create this program. 
 
 Netmiko is a module that makes it easier to use paramiko for network devices. Netmiko uses paramiko but also creates interface and methods needed to work with network devices. First you need to install netmiko: pip install netmiko.
 
-TTP is a Python library for semi-structured text parsing using templates.
+The TTP is a Python library for semi-structured text parsing using templates.
 
 See a sample CPU output from a network Device. 
 
