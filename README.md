@@ -5,7 +5,7 @@ Netmiko and TTP is used to create this program.
 
 Netmiko is a module that makes it easier to use paramiko for network devices. Netmiko uses paramiko but also creates interface and methods needed to work with network devices. First you need to install netmiko: pip install netmiko.
 
-The TTP is a Python library for semi-structured text parsing using templates.
+TTP is a Python library for semi-structured text parsing using the templates.
 
 See a sample CPU output from a network Device. 
 
